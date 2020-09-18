@@ -1130,7 +1130,7 @@
                 return e
             },
             created: function() {
-                document.title = "ACL4SSR 在线订阅转换",
+                document.title = "无忧 在线订阅转换",
                 this.isPC = this.$getOS().isPc
             },
             mounted: function() {
